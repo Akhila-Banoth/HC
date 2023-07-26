@@ -7,3 +7,6 @@ clustering,
 data-mining-algorithms,
 hierarchical-clustering,
 agglomerative-clustering
+#hierarchical-clustering
+#PYTHON
+#MACHINE LEARNING
